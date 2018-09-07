@@ -3,7 +3,7 @@
  ###### This is an API having endpoints to get a list of all order items, get a singe order item by specifying its id, update an order item and finally can delete the order item .
 
 ## Travis CI badge
-[![Build Status](https://travis-ci.com/TeamoreA/fast-food-api.svg?branch=master)](https://travis-ci.com/TeamoreA/fast-food-api)
+[![Build Status](https://travis-ci.com/TeamoreA/fast-food-api.svg?branch=ft-endpoints-added-160282972)](https://travis-ci.com/TeamoreA/fast-food-api)
 
 
 ## Aimed Functionalities Endpoints 
