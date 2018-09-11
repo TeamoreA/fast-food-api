@@ -4,6 +4,7 @@
 
 ## Travis CI badge
 [![Build Status](https://travis-ci.com/TeamoreA/fast-food-api.svg?branch=master)](https://travis-ci.com/TeamoreA/fast-food-api)
+[![Coverage Status](https://coveralls.io/repos/github/TeamoreA/manager/badge.svg?branch=master)](https://coveralls.io/github/TeamoreA/manager?branch=master)
 
 
 ## Aimed Functionalities Endpoints 
